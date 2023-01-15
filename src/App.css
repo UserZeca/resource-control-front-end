@@ -1,0 +1,15 @@
+
+html{
+    height: 100vh;
+}
+
+body{
+    height: 100%;
+    background-image: url('./assets/tlou_background.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;    
+    box-sizing: border-box;
+    border: 10px solid var(--dark-navy-blue);
+    
+}
