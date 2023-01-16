@@ -1,6 +1,5 @@
 import styled, { css } from "styled-components";
-
-
+import { DeviceSizes } from "../../constants/sizes";
 //#region Container
 
 type ContainerProps = {
@@ -80,7 +79,11 @@ export const Container = styled.div<ContainerProps>`
             }
         `
     }
-
+    
+    @media (max-width: ${DeviceSizes.mobileS}){   
+        width: 100px;
+        height: 40px;
+    }
 `;
 
 Container.defaultProps = {
