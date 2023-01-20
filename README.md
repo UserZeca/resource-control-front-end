@@ -59,7 +59,7 @@ npm run dev
 
 * React js
 * Bootstrap 
-* Typecript
+* Typescript
 
 
 ## ✒️ Autor
