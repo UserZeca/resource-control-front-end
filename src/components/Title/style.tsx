@@ -32,14 +32,7 @@ export const Text = styled.h1`
         width: 285px;
     }
 
-    @media (max-width: ${DeviceSizes.mobileL}){
-        font-size: 50px;
-        line-height: 50px;
-        width: 172px;
-        height: 150px;
-        color: var(--dark-navy-blue);
-    }
-
+    
     @media (max-width: ${DeviceSizes.tablet}){
         font-size: 70px;
         line-height: 70px;
@@ -48,12 +41,32 @@ export const Text = styled.h1`
         color: var(--dark-navy-blue);
     }
 
+    @media (max-width: ${DeviceSizes.mobileL}){
+        font-size: 50px;
+        line-height: 50px;
+        width: 172px;
+        height: 150px;
+        color: var(--dark-navy-blue);
+    }
+
+    
+    @media (max-width: ${DeviceSizes.mobileM}){
+        font-size: 50px;
+        line-height: 50px;
+        width: 172px;
+        height: 150px;
+        color: var(--dark-navy-blue);
+    }
+
+    
+    
     @media (max-width: ${DeviceSizes.mobileS}){
         font-size: 50px;
         line-height: 50px;
         width: 172px;
         height: 150px;
         color: var(--dark-navy-blue);
+        
     }
 
 `
