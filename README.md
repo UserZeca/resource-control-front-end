@@ -11,7 +11,7 @@ sistema de controle de seus recursos em um servidor privado.
 ## 📌 Atenção
 
 - Modelo que eu criei no [Figma](https://www.figma.com/file/ezclD0bsLERJMGT6rBH6fX/Resource-Control?node-id=0%3A1&t=5wtTmhtj9J7kYllV-1)
-- O projeto se encontra em estado embrionário(devido ao maior foco no backend), vários componentes foram feitos, porém a disposição deles ainda não foi realizada
+- O projeto se encontra em estado embrionário(devido ao maior foco no backend), vários componentes foram feitos, porém o sistema de rotas e a disposição deles ainda não foram feitos
 
 ## 🚀 Começando
 
